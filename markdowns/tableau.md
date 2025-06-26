@@ -6,9 +6,9 @@
 
 
 | Fruit     | Couleur| Goût|
-|-----------|-------------|-------------|
-| Pomme     | Rouge   | Sucré       |
+|-----------|-------------|--|
+| Pomme     | Rouge   | Sucré    |
 | Banane    | Jaune       | Doux        |
 | Citron    | Jaune       | Acide       |
-| Kiwi      | Vert        | Aigre-doux  |
+| Kiwi      | Vert                  | Aigre-doux  |
 | Fraise    | Rouge       | Sucré       |

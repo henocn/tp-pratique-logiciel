@@ -27,8 +27,9 @@ Ce TP a pour objectif d'apprendre à utiliser la syntaxe Markdown pour créer un
 
 ### 3. Code
 ```python
-def hello():
-    print("Hello World!")
+def hello(){}:
+    printf("Henoc && Rahmane!");
+    
 ```
 
 ### 4. Tableau
